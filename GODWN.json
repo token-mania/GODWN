@@ -2,7 +2,7 @@
     "name": "Go Down The Rabbit Hole",
     "symbol": "GODWN",
     "description": "This is a rabbit hole. Go down at your own risk",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/token-mania/GODWN/main/logo.png",
     "attributes": [
         {
             "trait_type": "Item",
